@@ -1,2 +1,5 @@
-# resume
-Suning Yao's resume (NYU Math 2023 / GPA 3.9 / @Microsoft Azure / @UnionPay Blockchain / @VioLegacy Front End / React+Vue+Node.js+CSS)
+# Suning Yao's resume
+Education: NYU Math 2023 / GPA 3.9
+Experience: @UnionPay Blockchain / @Microsoft Azure
+Project: @VioLegacy Front End
+Stack: React / Vue / JavaScript / Fisco BcoS
