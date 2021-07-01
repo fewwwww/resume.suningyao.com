@@ -2,7 +2,7 @@
 
 - **Education**: NYU Math 2023 / GPA 3.9
 
-- **Experience**: @UnionPay Blockchain / @Microsoft Azure
+- **Experience**: @*****Pay Blockchain / @Microsoft Azure
 
 - **Project**: @VioLegacy Front End
 
