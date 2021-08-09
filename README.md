@@ -2,7 +2,7 @@
 
 - **Education**: NYU Math 2023 / GPA 3.9
 
-- **Experience**: @*****Pay Blockchain / @Microsoft AIoT Lab
+- **Experience**: @UnionPay Blockchain / @Microsoft AIoT Lab
 
 - **Project**: @VioLegacy Front End
 
