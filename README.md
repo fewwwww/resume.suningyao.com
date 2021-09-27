@@ -4,7 +4,7 @@
 
 - **Experience**: @UnionPay Blockchain / @Microsoft AIoT Lab / @Foresight Ventures Blockchain
 
-- **Project**: @VioLegacy Front End / @WeLight Blockchain
+- **Project**: @VioLegacy Front End / @WeLightBlockchain Front End
 
 - **Stack**: React / Vue / JavaScript / Rust
 
