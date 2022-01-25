@@ -1,8 +1,8 @@
 # Suning Yao's resume
 
-- **Education**: NYU Math 2023 / GPA 3.9
+- **Education**: NYU CS 2023 / GPA 3.8
 
-- **Experience**: @UnionPay Blockchain / @Microsoft AIoT Lab / @Foresight Ventures Blockchain
+- **Experience**: @Google Geo / @UnionPay Blockchain / @Microsoft AIoT Lab / @Foresight Ventures Blockchain
 
 - **Project**: @VioLegacy Front End / @WeLightProject Front End
 
