@@ -2,7 +2,7 @@
 
 - **Education**: NYU CS 2023 / GPA 3.8
 
-- **Experience**: @Google Geo / @UnionPay Blockchain / @Microsoft AIoT Lab / @Foresight Ventures Blockchain
+- **Experience**: @Google Geo / @UnionPay Blockchain / @Microsoft AIoT Lab / @Foresight Ventures Blockchain / @HyperOracle Community Lead
 
 - **Project**: @VioLegacy Front End / @WeLightProject Front End
 
